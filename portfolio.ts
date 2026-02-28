@@ -92,6 +92,3 @@ export const education = [
     period: "Mar 2019 – Apr 2023",
   },
 ];
-Edited
-index.html
-Lovable
