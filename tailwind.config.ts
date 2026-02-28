@@ -48,6 +48,4 @@
         "slide-up": "slide-up 0.6s ease-out forwards",
       },
     },
-Edited
-index.html
-Lovable
+
